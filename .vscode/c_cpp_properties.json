@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/taeki/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/taeki/catkin_ws/src/A-LOAM/include/**",
+        "/home/taeki/catkin_ws/src/demo_lidar/include/**",
+        "/home/taeki/catkin_ws/src/floam/include/**",
+        "/home/taeki/catkin_ws/src/iscloam/include/**",
+        "/home/taeki/catkin_ws/src/kitti-lego-loam/LeGO-LOAM/include/**",
+        "/home/taeki/catkin_ws/src/LIO-SAM/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
